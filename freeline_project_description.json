@@ -1,0 +1,115 @@
+{
+    "android_gradle_plugin_version": "2.1.2",
+    "apk_path": "E:\\android\\workspace\\BitmapOOM\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "E:\\android\\workspace\\BitmapOOM\\app\\build\\freeline",
+    "build_directory": "E:\\android\\workspace\\BitmapOOM\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "E:\\android\\sdk\\build-tools\\22.0.1",
+    "build_tools_version": "22.0.1",
+    "compile_sdk_directory": "E:\\android\\sdk\\platforms\\android-22",
+    "compile_sdk_version": "android-22",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.rayhahah.bitmapoom",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "E:\\android\\workspace\\BitmapOOM",
+    "freeline_gradle_plugin_version": "0.8.5",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_60",
+    "launcher": "com.rayhahah.bitmapoom.MainActivity",
+    "main_assets_directory": [
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\assets",
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\jniLibs",
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\jni",
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "E:\\android\\workspace\\BitmapOOM\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\res",
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\java",
+        "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "E:\\android\\workspace\\BitmapOOM\\app"
+        }
+    ],
+    "package": "com.rayhahah.bitmapoom",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\assets",
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\jniLibs",
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\jni",
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\res",
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\debug\\java",
+                "E:\\android\\workspace\\BitmapOOM\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "E:\\android\\workspace\\BitmapOOM",
+    "sdk_directory": "E:\\android\\sdk",
+    "use_jdk8": false
+}
